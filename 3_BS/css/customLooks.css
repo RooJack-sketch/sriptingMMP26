@@ -1,0 +1,17 @@
+header,
+#about {
+    background-color: aquamarine;
+}
+
+footer {
+    background-color: #435155;
+    background-image: url(../bsImages/backgrounds/scallop.png);
+    background-repeat: repeat-x;
+}
+
+#about {
+    background-image: url(/bsImages/backgrounds/Abstract-blue_0.jpg);
+    background-repeat: no-repeat ;
+    background-size: cover;
+    background-position: center;
+}
